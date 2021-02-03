@@ -1,2 +1,5 @@
 https://greensock.com/forums/topic/19789-follow-by-mouse/
 https://codepen.io/karlovidek/pen/yvxZjO
+
+if use gsap, need to register plugin gsap cssplugin
+https://greensock.com/forums/topic/23955-gsap-3-with-vuejs/
